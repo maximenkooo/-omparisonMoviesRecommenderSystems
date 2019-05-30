@@ -3,7 +3,7 @@ ComparisonMoviesRecommenderSystems
 
 This is test solution for the selection of the internship in the VK.
 
-# Task
+### Task
 
 Needed to mplement the method from [article](https://www.ijcai.org/proceedings/2017/0511.pdf) and apply custom movie ratings
 to datasets [movielens-20M](https://grouplens.org/datasets/movielens/).
